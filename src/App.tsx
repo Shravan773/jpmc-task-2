@@ -54,7 +54,7 @@ this.setState({
       // Update the state by creating a new array of data that consists of
       // Previous data in the state and the new data from server
 
-    },100);
+    },1000);
   }
 
   /**
