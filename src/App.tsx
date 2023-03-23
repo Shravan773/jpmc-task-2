@@ -48,7 +48,7 @@ this.setState({
 });
     });
     x++;
-    if(x>10){
+    if(x>1000){
       clearInterval(interval);
     }
       // Update the state by creating a new array of data that consists of
